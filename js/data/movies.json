@@ -40,5 +40,35 @@
     "year": 1999,
     "genre": "Science Fiction",
     "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+  },
+  {
+    "title": "Sounds of Music",
+    "year": 1965,
+    "genre": "Musical",
+    "description": "Maria, an aspiring nun, is sent as a governess to take care of seven motherless children. Soon her jovial and loving nature tames their hearts and the children become fond of her."
+  },
+  {
+    "title": "Your Name",
+    "year": 2016,
+    "genre": "Animation",
+    "description": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person."
+  },
+  {
+    "title": "Maquia: when the promised flower blooms",
+    "year": 2018,
+    "genre": "Animation",
+    "description": "In a world where immortal beings called Iorphs exist, a young Iorph girl named Maquia is abandoned by her tribe. She raises an orphaned human baby boy, Ariel, and watches him grow up while facing the challenges of their differing lifespans."
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Science Fiction",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
   }
 ]
