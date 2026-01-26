@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Science Fiction",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with a low IQ who joins the Army and later becomes a successful businessman.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Science Fiction",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Matrix.png"
+  },
+  {
+    "title": "Sounds of Music",
+    "year": 1965,
+    "genre": "Musical",
+    "description": "Maria, an aspiring nun, is sent as a governess to take care of seven motherless children. Soon her jovial and loving nature tames their hearts and the children become fond of her.",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sound_of_music.jpg/500px-Sound_of_music.jpg"
+  },
+  {
+    "title": "Your Name",
+    "year": 2016,
+    "genre": "Animation",
+    "description": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/Your_Name_poster.png"
+  },
+  {
+    "title": "Maquia: when the promised flower blooms",
+    "year": 2018,
+    "genre": "Animation",
+    "description": "In a world where immortal beings called Iorphs exist, a young Iorph girl named Maquia is abandoned by her tribe. She raises an orphaned human baby boy, Ariel, and watches him grow up while facing the challenges of their differing lifespans.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/a8/SayoAsa_Theatrical_Release_Poster.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Science Fiction",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oW0XQlu1lo1G_49M-YwGzKR6rUg-CtflZj07HfbT8d2GwKWg"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png"
+  }
+]
