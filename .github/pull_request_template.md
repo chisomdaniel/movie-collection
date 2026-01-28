@@ -13,17 +13,29 @@
 
 <!-- Context, issue link, or motivation -->
 
-## Breaking changes?
+## How was this tested?
 
-- [ ] Yes (describe below)
-- [ ] No
+- Unit tests:
+- Manual testing:
+- Other (describe):
 
 ## Screenshots / Recordings (if UI)
 
 <!-- Attach visuals if applicable -->
 
+## Breaking changes?
+
+- [ ] Yes (describe below)
+- [ ] No
+
+## Notes for reviewers
+
+<!-- Anything specific you want feedback on -->
+
 ## Checklist
 
 - [ ] Code follows project style
 - [ ] Self-review completed
+- [ ] Tests added or updated (if applicable)
 - [ ] No breaking changes (or documented)
+- [ ] Documentation updated (if needed)
