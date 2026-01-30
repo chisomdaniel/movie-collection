@@ -21,7 +21,7 @@
 
 ## Screenshots / Recordings (if UI)
 
-<!-- Attach visuals if applicable -->
+<!-- For UI changes: attach a screenshot of the updated interface. For workflow/process: optional link to images in `screenshots/`. -->
 
 ## Breaking changes?
 
